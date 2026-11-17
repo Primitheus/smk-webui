@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Key: Escape",
+    "cell": 0,
+    "x": 0,
+    "y": 0,
+    "vk": 27
+  },
+  {
+    "name": "Key: F1",
+    "cell": 2,
+    "x": 2,
+    "y": 0,
+    "vk": 112
+  },
+  {
+    "name": "Key: F2",
+    "cell": 3,
+    "x": 3,
+    "y": 0,
+    "vk": 113
+  },
+  {
+    "name": "Key: F3",
+    "cell": 4,
+    "x": 4,
+    "y": 0,
+    "vk": 114
+  },
+  {
+    "name": "Key: F4",
+    "cell": 5,
+    "x": 5,
+    "y": 0,
+    "vk": 115
+  },
+  {
+    "name": "Key: F5",
+    "cell": 7,
+    "x": 7,
+    "y": 0,
+    "vk": 116
+  },
+  {
+    "name": "Key: F6",
+    "cell": 8,
+    "x": 8,
+    "y": 0,
+    "vk": 117
+  },
+  {
+    "name": "Key: F7",
+    "cell": 9,
+    "x": 9,
+    "y": 0,
+    "vk": 118
+  },
+  {
+    "name": "Key: F8",
+    "cell": 10,
+    "x": 10,
+    "y": 0,
+    "vk": 119
+  },
+  {
+    "name": "Key: F9",
+    "cell": 11,
+    "x": 11,
+    "y": 0,
+    "vk": 120
+  },
+  {
+    "name": "Key: F10",
+    "cell": 12,
+    "x": 12,
+    "y": 0,
+    "vk": 121
+  },
+  {
+    "name": "Key: F11",
+    "cell": 13,
+    "x": 13,
+    "y": 0,
+    "vk": 122
+  },
+  {
+    "name": "Key: F12",
+    "cell": 14,
+    "x": 14,
+    "y": 0,
+    "vk": 123
+  },
+  {
+    "name": "Key: Print Screen",
+    "cell": 15,
+    "x": 15,
+    "y": 0,
+    "vk": 44
+  },
+  {
+    "name": "Key: SCRL",
+    "cell": 16,
+    "x": 16,
+    "y": 0,
+    "vk": 0
+  },
+  {
+    "name": "Key: Pause",
+    "cell": 17,
+    "x": 17,
+    "y": 0,
+    "vk": 19
+  },
+  {
+    "name": "Key: `",
+    "cell": 18,
+    "x": 0,
+    "y": 1,
+    "vk": 223
+  },
+  {
+    "name": "Key: 1",
+    "cell": 19,
+    "x": 1,
+    "y": 1,
+    "vk": 49
+  },
+  {
+    "name": "Key: 2",
+    "cell": 20,
+    "x": 2,
+    "y": 1,
+    "vk": 50
+  },
+  {
+    "name": "Key: 3",
+    "cell": 21,
+    "x": 3,
+    "y": 1,
+    "vk": 51
+  },
+  {
+    "name": "Key: 4",
+    "cell": 22,
+    "x": 4,
+    "y": 1,
+    "vk": 52
+  },
+  {
+    "name": "Key: 5",
+    "cell": 23,
+    "x": 5,
+    "y": 1,
+    "vk": 53
+  },
+  {
+    "name": "Key: 6",
+    "cell": 24,
+    "x": 6,
+    "y": 1,
+    "vk": 54
+  },
+  {
+    "name": "Key: 7",
+    "cell": 25,
+    "x": 7,
+    "y": 1,
+    "vk": 55
+  },
+  {
+    "name": "Key: 8",
+    "cell": 26,
+    "x": 8,
+    "y": 1,
+    "vk": 56
+  },
+  {
+    "name": "Key: 9",
+    "cell": 27,
+    "x": 9,
+    "y": 1,
+    "vk": 57
+  },
+  {
+    "name": "Key: 0",
+    "cell": 28,
+    "x": 10,
+    "y": 1,
+    "vk": 48
+  },
+  {
+    "name": "Key: -",
+    "cell": 29,
+    "x": 11,
+    "y": 1,
+    "vk": 189
+  },
+  {
+    "name": "Key: =",
+    "cell": 30,
+    "x": 12,
+    "y": 1,
+    "vk": 187
+  },
+  {
+    "name": "Key: Backspace",
+    "cell": 32,
+    "x": 14,
+    "y": 1,
+    "vk": 8
+  },
+  {
+    "name": "Key: Insert",
+    "cell": 33,
+    "x": 15,
+    "y": 1,
+    "vk": 45
+  },
+  {
+    "name": "Key: Home",
+    "cell": 34,
+    "x": 16,
+    "y": 1,
+    "vk": 36
+  },
+  {
+    "name": "Key: Page Up",
+    "cell": 35,
+    "x": 17,
+    "y": 1,
+    "vk": 33
+  },
+  {
+    "name": "Key: Tab",
+    "cell": 36,
+    "x": 0,
+    "y": 2,
+    "vk": 9
+  },
+  {
+    "name": "Key: Q",
+    "cell": 37,
+    "x": 1,
+    "y": 2,
+    "vk": 81
+  },
+  {
+    "name": "Key: W",
+    "cell": 38,
+    "x": 2,
+    "y": 2,
+    "vk": 87
+  },
+  {
+    "name": "Key: E",
+    "cell": 39,
+    "x": 3,
+    "y": 2,
+    "vk": 69
+  },
+  {
+    "name": "Key: R",
+    "cell": 40,
+    "x": 4,
+    "y": 2,
+    "vk": 82
+  },
+  {
+    "name": "Key: T",
+    "cell": 41,
+    "x": 5,
+    "y": 2,
+    "vk": 84
+  },
+  {
+    "name": "Key: Y",
+    "cell": 42,
+    "x": 6,
+    "y": 2,
+    "vk": 89
+  },
+  {
+    "name": "Key: U",
+    "cell": 43,
+    "x": 7,
+    "y": 2,
+    "vk": 85
+  },
+  {
+    "name": "Key: I",
+    "cell": 44,
+    "x": 8,
+    "y": 2,
+    "vk": 73
+  },
+  {
+    "name": "Key: O",
+    "cell": 45,
+    "x": 9,
+    "y": 2,
+    "vk": 79
+  },
+  {
+    "name": "Key: P",
+    "cell": 46,
+    "x": 10,
+    "y": 2,
+    "vk": 80
+  },
+  {
+    "name": "Key: [",
+    "cell": 47,
+    "x": 11,
+    "y": 2,
+    "vk": 219
+  },
+  {
+    "name": "Key: ]",
+    "cell": 48,
+    "x": 12,
+    "y": 2,
+    "vk": 221
+  },
+  {
+    "name": "Key: Delete",
+    "cell": 51,
+    "x": 15,
+    "y": 2,
+    "vk": 46
+  },
+  {
+    "name": "Key: End",
+    "cell": 52,
+    "x": 16,
+    "y": 2,
+    "vk": 35
+  },
+  {
+    "name": "Key: Page Down",
+    "cell": 53,
+    "x": 17,
+    "y": 2,
+    "vk": 34
+  },
+  {
+    "name": "Key: Caps Lock",
+    "cell": 54,
+    "x": 0,
+    "y": 3,
+    "vk": 20
+  },
+  {
+    "name": "Key: A",
+    "cell": 55,
+    "x": 1,
+    "y": 3,
+    "vk": 65
+  },
+  {
+    "name": "Key: S",
+    "cell": 56,
+    "x": 2,
+    "y": 3,
+    "vk": 83
+  },
+  {
+    "name": "Key: D",
+    "cell": 57,
+    "x": 3,
+    "y": 3,
+    "vk": 68
+  },
+  {
+    "name": "Key: F",
+    "cell": 58,
+    "x": 4,
+    "y": 3,
+    "vk": 70
+  },
+  {
+    "name": "Key: G",
+    "cell": 59,
+    "x": 5,
+    "y": 3,
+    "vk": 71
+  },
+  {
+    "name": "Key: H",
+    "cell": 60,
+    "x": 6,
+    "y": 3,
+    "vk": 72
+  },
+  {
+    "name": "Key: J",
+    "cell": 61,
+    "x": 7,
+    "y": 3,
+    "vk": 74
+  },
+  {
+    "name": "Key: K",
+    "cell": 62,
+    "x": 8,
+    "y": 3,
+    "vk": 75
+  },
+  {
+    "name": "Key: L",
+    "cell": 63,
+    "x": 9,
+    "y": 3,
+    "vk": 76
+  },
+  {
+    "name": "Key: ;",
+    "cell": 64,
+    "x": 10,
+    "y": 3,
+    "vk": 186
+  },
+  {
+    "name": "Key: '",
+    "cell": 65,
+    "x": 11,
+    "y": 3,
+    "vk": 192
+  },
+  {
+    "name": "Key: #",
+    "cell": 66,
+    "x": 12,
+    "y": 3,
+    "vk": 222
+  },
+  {
+    "name": "Key: Enter",
+    "cell": 67,
+    "x": 13,
+    "y": 3,
+    "vk": 13
+  },
+  {
+    "name": "Key: Left Shift",
+    "cell": 72,
+    "x": 0,
+    "y": 4,
+    "vk": 160
+  },
+  {
+    "name": "Key: \\",
+    "cell": 86,
+    "x": 1,
+    "y": 4,
+    "vk": 226
+  },
+  {
+    "name": "Key: Z",
+    "cell": 73,
+    "x": 2,
+    "y": 4,
+    "vk": 90
+  },
+  {
+    "name": "Key: X",
+    "cell": 74,
+    "x": 3,
+    "y": 4,
+    "vk": 88
+  },
+  {
+    "name": "Key: C",
+    "cell": 75,
+    "x": 4,
+    "y": 4,
+    "vk": 67
+  },
+  {
+    "name": "Key: V",
+    "cell": 76,
+    "x": 5,
+    "y": 4,
+    "vk": 86
+  },
+  {
+    "name": "Key: B",
+    "cell": 77,
+    "x": 6,
+    "y": 4,
+    "vk": 66
+  },
+  {
+    "name": "Key: N",
+    "cell": 78,
+    "x": 7,
+    "y": 4,
+    "vk": 78
+  },
+  {
+    "name": "Key: M",
+    "cell": 79,
+    "x": 8,
+    "y": 4,
+    "vk": 77
+  },
+  {
+    "name": "Key: ,",
+    "cell": 80,
+    "x": 9,
+    "y": 4,
+    "vk": 188
+  },
+  {
+    "name": "Key: .",
+    "cell": 81,
+    "x": 10,
+    "y": 4,
+    "vk": 190
+  },
+  {
+    "name": "Key: /",
+    "cell": 82,
+    "x": 11,
+    "y": 4,
+    "vk": 191
+  },
+  {
+    "name": "Key: Right Shift",
+    "cell": 85,
+    "x": 13,
+    "y": 4,
+    "vk": 161
+  },
+  {
+    "name": "Key: Up Arrow",
+    "cell": 88,
+    "x": 16,
+    "y": 4,
+    "vk": 38
+  },
+  {
+    "name": "Key: Left Control",
+    "cell": 90,
+    "x": 0,
+    "y": 5,
+    "vk": 162
+  },
+  {
+    "name": "Key: Left Windows",
+    "cell": 91,
+    "x": 1,
+    "y": 5,
+    "vk": 91
+  },
+  {
+    "name": "Key: Left Alt",
+    "cell": 92,
+    "x": 2,
+    "y": 5,
+    "vk": 164
+  },
+  {
+    "name": "Key: Space",
+    "cell": 95,
+    "x": 5,
+    "y": 5,
+    "vk": 32
+  },
+  {
+    "name": "Key: Right Alt",
+    "cell": 98,
+    "x": 8,
+    "y": 5,
+    "vk": 165
+  },
+  {
+    "name": "Key: Fn",
+    "cell": 99,
+    "x": 9,
+    "y": 5,
+    "vk": 0
+  },
+  {
+    "name": "Key: Menu",
+    "cell": 100,
+    "x": 10,
+    "y": 5,
+    "vk": 93
+  },
+  {
+    "name": "Key: Right Control",
+    "cell": 102,
+    "x": 12,
+    "y": 5,
+    "vk": 163
+  },
+  {
+    "name": "Key: Left Arrow",
+    "cell": 105,
+    "x": 15,
+    "y": 5,
+    "vk": 37
+  },
+  {
+    "name": "Key: Down Arrow",
+    "cell": 106,
+    "x": 16,
+    "y": 5,
+    "vk": 40
+  },
+  {
+    "name": "Key: Right Arrow",
+    "cell": 107,
+    "x": 17,
+    "y": 5,
+    "vk": 39
+  }
+]
